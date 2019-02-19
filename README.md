@@ -10,3 +10,13 @@
 现在的话，点这里吧：
 
 ## [文档索引](https://github.com/yomunsam/TinaX/wiki/catalog)
+
+
+
+------
+
+Nekonya Studio 第三区TinaX维护团队提醒您：
+
+代码千万行，文档第一行。
+
+文档不规范，重构两行泪。
