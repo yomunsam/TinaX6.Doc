@@ -79,4 +79,20 @@ TinaX6 中购买并使用了如下项目。（在这些项目被替换掉之前�
 
 ### Odin - Inspector and Serializer
 
-Asset Store:[Odin - Inspector and Serializer](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041)
+Asset Store: [Odin - Inspector and Serializer](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041)
+
+### Editor Console Pro
+
+Asset Store: [Editor Console Pro](https://assetstore.unity.com/packages/tools/utilities/editor-console-pro-11889)
+
+### UGUI Super ScrollView
+
+Asset Store: [UGUI Super ScrollView](https://assetstore.unity.com/packages/tools/gui/ugui-super-scrollview-86572)
+
+### Bolt
+
+Asset Store: [Bolt](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-87491)
+
+### SRDebugger - Console & Tools On-Device
+
+Asset Store: [SRDebugger - Console & Tools On-Device](https://assetstore.unity.com/packages/tools/gui/srdebugger-console-tools-on-device-27688)
