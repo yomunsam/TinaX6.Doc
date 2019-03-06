@@ -96,3 +96,8 @@ Asset Store: [Bolt](https://assetstore.unity.com/packages/tools/visual-scripting
 ### SRDebugger - Console & Tools On-Device
 
 Asset Store: [SRDebugger - Console & Tools On-Device](https://assetstore.unity.com/packages/tools/gui/srdebugger-console-tools-on-device-27688)
+
+
+### luaide
+
+Visual Studio Marketplace: [luaide](https://marketplace.visualstudio.com/items?itemName=kangping.luaide)
