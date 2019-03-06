@@ -20,3 +20,13 @@ Nekonya Studio 第三区TinaX维护团队提醒您：
 代码千万行，注释第一行。
 
 文档不规范，重构两行泪。
+
+
+-----
+
+### 开源项目引用与参考：
+
+#### CatLib.Core
+![CatLib](https://camo.githubusercontent.com/d402b21f4ebb6532d5d20d94fbfbb3a5c26914fa/687474703a2f2f6361746c69622e696f2f696d67732f6c6f676f2d7478742e706e67)
+
+TinaX6使用CatLib.Core实现了功能模块的管理
