@@ -77,4 +77,6 @@ TinaX6 GameKit 剧情对话系统、 简单音频管理系统 的实现
 
 TinaX6 中购买并使用了如下项目。（打开在这些项目被替换掉之前，是不会开源了，我怕它们打我）
 
-### Odin
+### Odin - Inspector and Serializer
+
+Asset Store:[Odin - Inspector and Serializer](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041)
