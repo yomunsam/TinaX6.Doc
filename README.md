@@ -38,3 +38,13 @@ TinaX6使用CatLib.Core实现了功能模块的管理
 <a href="https://github.com/Tencent/xLua" target="_blank"><img src="https://github.com/Tencent/xLua/blob/master/Assets/XLua/Doc/xLua.png" width = "150" /></a>
 
 TinaX6使用xLua实现了Lua Script运行环境
+
+
+#### DOTween
+
+<a href="http://dotween.demigiant.com/" target="_blank"><img src="http://dotween.demigiant.com/_imgs/logos/dotween_hotweenv2.png" width = "150" /></a>
+
+TinaX6使用DOTween实现了UIKit 动画工具 等内容，并作为基础库整合进框架。
+
+
+
