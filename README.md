@@ -1,6 +1,6 @@
 # TinaX 文档项目
 
-[![996.ICU](https://img.shields.io/badge/link-996.icu-red.svg)]()
+[![996.ICU](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 之前有个独立的文档站 [TinaX Doc](https://tinax.corala.space/)
 
