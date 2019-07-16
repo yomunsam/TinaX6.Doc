@@ -6,7 +6,7 @@
 
 
 
-## [文档索引](https://github.com/yomunsam/TinaX/wiki/catalog)
+## [文档索引](https://github.com/yomunsam/TinaX6.Doc/wiki/catalog)
 
 
 
